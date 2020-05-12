@@ -1,3 +1,3 @@
 # My-Tailor
 My Tailor
-A website to automate Tailoring industry.
+A website that helps to automate Tailoring industry.
